@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1042 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Website-Mock-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-210.000000, -797.000000)">
+            <g id="Group-3" transform="translate(208.000000, 0.000000)">
+                <g id="Group-2" transform="translate(0.000000, 800.000000)">
+                    <g id="Group" transform="translate(0.000000, 11.000000)" font-size="64" fill="#FFF7E2">
+                        <text id="QUARK" font-family="Montserrat-Bold, Montserrat" font-weight="bold" letter-spacing="63.2000008">
+                            <tspan x="0.143998474" y="62">QUAR</tspan>
+                            <tspan x="452.496002" y="62">K</tspan>
+                        </text>
+                        <text id="education" font-family="Montserrat-Medium, Montserrat" font-weight="400" letter-spacing="21">
+                            <tspan x="551.232" y="62">educatio</tspan>
+                            <tspan x="1005.184" y="62">n</tspan>
+                        </text>
+                    </g>
+                    <path d="M526,0 L526,99.5" id="Line" stroke="#FFF7E2" stroke-width="5" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
