@@ -10,6 +10,7 @@ html, body {
 	color: $txt-primary;
 	background-color: $body-bg;
 	-webkit-text-size-adjust: 100%; //fix for iOS
+	margin: 0;
 }
 
 h1 {
@@ -25,7 +26,6 @@ img:not(.png) { /* Required to make image fluid in IE */
 .home-header {
 	color: $header-heading-color;
 	text-align: center;
-	font-family: $quark-font; //this should reference a font in a variable - but can't get it to work.
 	background-color: $header-bg-color;
 	padding: 0em;
 	background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
@@ -40,6 +40,7 @@ header {
 	font-size: 2em;
 	font-weight: $semibold;
 	padding: 1em;
+	margin: 0px;
 }
 
 .logo {

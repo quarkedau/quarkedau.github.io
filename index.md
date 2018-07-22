@@ -2,6 +2,6 @@
 layout: home
 ---
 
-This is the first index page built using Jekyll for site implementation.
+For Students
 
-WHY WON'T YOU APPEAR?
+For Educators
