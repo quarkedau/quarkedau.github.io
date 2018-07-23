@@ -9,8 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Two blokes trying to make the world a better place
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: quarkedau
-github_username:  quarkedau
+instagram_username: quarkedau
 
 # Build settings
 markdown: kramdown
