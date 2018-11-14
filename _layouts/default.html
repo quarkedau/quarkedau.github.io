@@ -32,10 +32,13 @@
 
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
     </head>
 
     <body>
-        {%- include site-header.html -%}
+        <!-- {%- include site-header.html -%} this is for the header banner which may be useful in future, more complicated things-->
 
         <section class="main-content">
 

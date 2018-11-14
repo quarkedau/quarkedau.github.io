@@ -16,3 +16,6 @@ markdown: kramdown
 theme:
 plugins:
   - jekyll-feed
+
+# Google Analytics
+google_analytics: UA-67193322-2
