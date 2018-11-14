@@ -4,6 +4,20 @@
   box-sizing: border-box;
 }
 
+a {
+  color: $txt-light;
+  text-decoration: none;
+
+  &:visited {
+    color: darken($txt-light, 15%);
+  }
+
+  &:hover {
+    color: $txt-light;
+    text-decoration: underline;
+  }
+}
+
 html, body {
 	font-family: $serif;
 	font-weight: $light;
