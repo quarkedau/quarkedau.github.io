@@ -1,13 +1,15 @@
 // Typography
 
-$sans-serif: 'Montserrat', sans-serif;
-$serif: 'Source Serif Pro', serif;
+$sans-serif: 'Lato', sans-serif;
+$serif: 'Bitter', serif;
 $mono: 'Source Code Pro', Courier, mono;
 
 $light: 300;
 $normal: 400;
 $semibold: 500;
 $bold: 700;
+
+$base: 14px;
 
 // Colo(u)r
 
@@ -17,5 +19,5 @@ $body-bg: #FFF7E2;
 
 // Headers
 $header-heading-color: #FFF7E2 !default;
-$header-bg-color: #2B2855 !default;
+$header-bg-color: #25234B !default;
 $header-bg-color-secondary: #121125 !default;

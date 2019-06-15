@@ -1,3 +1,11 @@
-<ul class="social-media-list">
+<!-- <ul class="social-media-list">
     {%- if site.instagram_username -%}<li><a href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/svg/instagram.svg#instagram' | relative_url }}"></use></svg> <span class="username">{{ site.instagram_username| escape }}</span></a></li>{%- endif -%}
+</ul> -->
+
+<ul class="social-media-list">
+    <li><a href="https://facebook.com/" id="profile-link" target="_blank" rel="noopener" aria-label="Go to our Facebook page"><i class="fab fa-facebook-square"></i></a></li>
+
+    <li><a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="Go to our Instagram profile"><i class="fab fa-instagram"></i></a></li>
+
+    <li><a class="u-email" href="mailto:{{ site.email }}" aria-label="Send me an email"><i class="fas fa-envelope"></i></a></li>
 </ul>
